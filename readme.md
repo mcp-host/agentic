@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> As of February, 2026, I'm archiving this project since it is no longer being actively developed. Agentic had a good run and explored some genuinely interesting ideas for the time, namely an HTTP <> MCP compatibility layer, a TS stdlib of AI functions, and cross-compat with all the major LLM libs + AI SDKs. But at the end of the day, it failed to gain traction, and I've moved on to other projects.
+
 <p align="center">
   <a href="https://agentic.so">
     <img alt="Agentic" src="https://raw.githubusercontent.com/transitive-bullshit/agentic/main/apps/web/public/agentic-social-image-light.jpg" width="640">
